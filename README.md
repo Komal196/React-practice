@@ -1,2 +1,3 @@
 # React-practice
-this is my react practice code.
+This is my react practice code.
+Author-Komal Bharati
